@@ -1,0 +1,24 @@
+{
+  "name": "protocol-buffers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/protocol-buffers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/protocol-buffers/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/protocol-buffers#readme",
+  "dependencies": {
+    "filesize": "^6.3.0",
+    "google-protobuf": "^3.15.8"
+  }
+}
